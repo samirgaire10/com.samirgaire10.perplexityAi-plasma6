@@ -1,4 +1,4 @@
-# chat gpt widget for plasma 6
+# perplexityAi widget for plasma 6
 
 <h1 align="center">
 
@@ -13,7 +13,7 @@
 Just fork or clone the project :
 
 run the command on terminal
-`git clone https://github.com/samirgaire10/com.samirgaire10.chatgpt-plasma6.git`
+`git clone `
 
 move the folder to `/usr/share/plasma/plasmoids/`
 !!! sudo is required !!!
