@@ -1,0 +1,18 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "samirgaire10"
+            }
+        ],
+        "Category": "Online Services",
+        "Description": "Add a webpage on your desktop.",
+        "Icon": "applications-internet",
+        "Id": "com.samirgaire10.perplexityAi-plasma6",
+        "License": "GPL-2.0+",
+        "Name": "perplexityAi",
+        "Website": "https://kde.org/plasma-desktop"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
