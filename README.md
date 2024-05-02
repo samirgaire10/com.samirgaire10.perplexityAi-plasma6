@@ -1,4 +1,4 @@
-# perplexityAi widget for plasma 6
+#  Google gemini  widget for plasma 6
 
 <h1 align="center">
 
@@ -13,23 +13,11 @@
 Just fork or clone the project :
 
 run the command on terminal
-`git clone https://github.com/samirgaire10/com.samirgaire10.perplexityAi-plasma6.git`
+`git clone  https://github.com/samirgaire10/com.samirgaire10.google_gemini-plasma6.git `
 
-move the folder to `/usr/share/plasma/plasmoids/`
-!!! sudo is required !!!
+move the folder to `.local/share/plasma/plasmoids/`
 
-and run the command  
-`reboot the pc is required`
 
-## problems
-
-there are few problems / ISSUES with this plasmoid
-
-1.  if u restart u would have to login again .
-2.  root is required
-3.
-
-## Other Tools
 
 ## For plasma 6
 
@@ -47,7 +35,9 @@ there are few problems / ISSUES with this plasmoid
 
 - perplexityAi [Github](https://github.com/samirgaire10/com.samirgaire10.perplexityAi-plasma6.git)
 
- - Blackbox AI  [Github](https://github.com/samirgaire10/blackbox.AI.git)
+- Blackbox AI  [Github](https://github.com/samirgaire10/com.samirgaire10.blackbox.AI_plasma6.git)
+
+- Weblink  [Github](https://github.com/samirgaire10/com.samirgaire10.Weblink-plasma6.git)
 
 
 ## For plasma 5
