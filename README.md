@@ -39,6 +39,8 @@ move the folder to `.local/share/plasma/plasmoids/`
 
 - Weblink  [Github](https://github.com/samirgaire10/com.samirgaire10.Weblink-plasma6.git)
 
+- Google Translater [Github](https://github.com/samirgaire10/com.samirgaire10.GoogleTranslater-plasma6.git)
+
 
 ## For plasma 5
 
