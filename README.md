@@ -1,4 +1,4 @@
-#  Google gemini  widget for plasma 6
+#  perplexityAi  widget for plasma 6
 
 <h1 align="center">
 
