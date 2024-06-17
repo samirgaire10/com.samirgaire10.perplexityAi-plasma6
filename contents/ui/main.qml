@@ -74,6 +74,19 @@ PlasmoidItem {
 
                 readonly property bool useMinViewWidth : plasmoid.configuration.useMinViewWidth
 
+
+ WebEngineProfile {
+            id: perplexity
+            httpUserAgent: getUserAgent()
+            storageName: "perplexity"
+            offTheRecord: false
+            httpCacheType: WebEngineProfile.DiskHttpCache
+            persistentCookiesPolicy: WebEngineProfile.ForcePersistentCookies
+        }
+
+        profile: perplexity
+
+
                 Connections {
                     target: plasmoid.configuration
 
